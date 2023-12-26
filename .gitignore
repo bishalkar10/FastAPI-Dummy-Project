@@ -1,0 +1,27 @@
+# Python-related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+
+# Development and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment-related files
+fastAPI-venv/
+env/
+.venv/
+.env/
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+# Miscellaneous files
+.DS_Store
+Thumbs.db
